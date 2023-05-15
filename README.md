@@ -1,9 +1,9 @@
 # Chrome-Extension
 You may save notes and website URLs using this extension.
 
-* Write your notes in input section and click "SAVE INPUT" button
+<!-- * Write your notes in input section and click "SAVE INPUT" button
 
-![Save-input](https://user-images.githubusercontent.com/106872138/209137030-5b794934-4fa0-4a3f-8ec9-e98af7d1457d.png)
+![Save-input](https://user-images.githubusercontent.com/106872138/209137030-5b794934-4fa0-4a3f-8ec9-e98af7d1457d.png) -->
 
 * With a click of the "SAVE TAB" button, you may save the currently open tab.
 
